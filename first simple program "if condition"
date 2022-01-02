@@ -1,0 +1,13 @@
+// this simple C program will print a number if it is greater than 5 using the "if condition".
+
+#include<stdio.h>
+int main()
+{
+int i;
+printf("enter a number");
+scanf("%d",&i);
+if(i%2==0)
+{
+printf("%d\t",i);
+}
+}
