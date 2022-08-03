@@ -1,7 +1,7 @@
-/* Print "Hello, World" to the console */
+/* Print "Hello new World" to the console */
  #include <stdio.h>
  int main(void)
 {
-    printf("Hello, World");
+    printf("Hello new World");
     return 0;
 }
